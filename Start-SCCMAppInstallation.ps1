@@ -1,6 +1,5 @@
 <#
 .Synopsis
-   Luke Williams
    Remotely forces an assigned SCCM application to install/uninstall on a client.
 .EXAMPLE
    Start-SCCMAppInstallation -Computername 4439C492DB00 -AppName "Mudbox 2017"
