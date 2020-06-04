@@ -1,6 +1,5 @@
 ﻿<#
 .Synopsis
-   Luke Williams, ORC EPD.
    Retrieves SCCM application deployment status information.
 .EXAMPLE
    Get-SCCMAppDeploymentStatus -app_name "revit 2020"
