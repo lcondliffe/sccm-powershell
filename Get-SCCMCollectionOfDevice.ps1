@@ -11,7 +11,7 @@
 
         [String]$SiteCode = "TST",
 
-        [String]$SiteServer = "sccm-prd-ss01"
+        [String]$SiteServer = "sccm"
     )
 Begin
 {
